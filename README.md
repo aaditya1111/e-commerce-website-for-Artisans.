@@ -1,2 +1,2 @@
 # Website-based-on-College-Students
-It includes Back-End Database management 
+It includes Back-End Database management and Anonymous chatting with people having profile on our Website.
