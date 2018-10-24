@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<? php ?>
 <html>
 <head>
            <title>A simple web page</title>
