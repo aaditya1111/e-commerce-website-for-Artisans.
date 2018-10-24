@@ -1,4 +1,4 @@
-<html>
+<? php ?>
 <head>
 <title> Application Form </title>
 </head>
@@ -52,4 +52,3 @@
 </table
 </form>
 </body>
-</html>
