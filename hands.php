@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<? php ?>
 <html>
 <title>Handscart</title>
 <meta charset="UTF-8">
