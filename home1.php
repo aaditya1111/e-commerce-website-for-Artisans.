@@ -1,4 +1,4 @@
-<html>
+<? php ?>
 <head>
 <style>
 iframe
@@ -87,4 +87,3 @@ height:500pix;
 <td> male </td>
 </tr>
 </body>
-</html>
